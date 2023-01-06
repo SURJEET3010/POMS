@@ -7,7 +7,7 @@ CREATE TABLE Customer(
 customer_id INT AUTO_INCREMENT,
 Customer_name varchar(50), 
 email VARCHAR(50), 
-phone INT,
+phone BIGINT,
 address TEXT, 
 date_of_birth DATE, 
 age TINYINT,
