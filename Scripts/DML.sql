@@ -28,10 +28,10 @@ VALUES
     "10-09-1992", 44, "xxxxxxx", "visa card", "loki@hmail.com"),
     
     ("Bob","bob@hmail.com", 98989, "Street 3, twin tower, Jordan", 
-    "10-09-19992", "xxxxxxx", "visa card", "bob@hmail.com"),
+    "10-09-19992",20, "xxxxxxx", "visa card", "bob@hmail.com"),
     
     ("Alexa","al9090@hmail.com", 98989, "Street 3, twin tower, Jordan", 
-    "10-09-19992", "xxxxxxx", "visa card", "alexa_9090"),
+    "10-09-19992", 23, "xxxxxxx", "visa card", "alexa_9090"),
     
     ("Sonail","sonail@hmail.com", 98989, "Street 3, twin tower, Jordan", 
-    "10-09-19992", "xxxxxxx", "visa card", "sonail_675");
+    "10-09-19992", 29, "xxxxxxx", "visa card", "sonail_675");
