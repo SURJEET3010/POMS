@@ -1,4 +1,7 @@
-USE `poms`;
+USE `poms`;     # name of database to be used
+
+
+# Inserting values in the customer table
 
 INSERT INTO `poms`.`Customer`
 (
