@@ -1,5 +1,7 @@
 
-USE POMS;
+ USE POMS; // Using database
+
+// Creating customer table with cusomer_id as primary key
 
 CREATE TABLE Customer(
 customer_id INT AUTO_INCREMENT,
