@@ -35,3 +35,7 @@ VALUES
     
     ("Sonail","sonail@hmail.com", 98989, "Street 3, twin tower, Jordan", 
     "10-09-19992", 29, "xxxxxxx", "visa card", "sonail_675");
+
+
+
+
