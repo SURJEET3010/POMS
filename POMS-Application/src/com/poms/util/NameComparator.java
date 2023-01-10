@@ -1,4 +1,4 @@
-package com.java.util;
+package com.poms.util;
 
 import java.util.Comparator;
 
