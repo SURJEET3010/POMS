@@ -10,17 +10,15 @@ package com.poms.model;
 public class Customer {
 	
 	// Default Constructor 
-	
 	public Customer() {
 		super();
 	}
-
 	
 	// Constructor Overloaded
 	public Customer(String customerName, String email, long phone, String address, String dateOfBirth, int age,
 			String password, String idProof, String preferredLoginId, int customerId) {
 		super();
-		CustomerName = customerName;
+		this.customerName = customerName;
 		this.email = email;
 		this.phone = phone;
 		this.address = address;
@@ -33,7 +31,8 @@ public class Customer {
 	}
 
 	// Member Variables
-	private String CustomerName; 
+	private int customerId;
+	private String customerName; 
 	private String email ; 
 	private long phone;
 	private String address; 
@@ -42,23 +41,20 @@ public class Customer {
 	private String password;
 	private String idProof;
 	private String preferredLoginId;
-	private int customerId;
+	
 	
 	// Getter and Setter methods of all member variables
 	
 	public int getCustomerId() {
 		return customerId;
 	}
-	public void setCustomerId(int customerId) {
-		this.customerId = customerId;
-	}
 	
 
 	public String getCustomerName() {
-		return CustomerName;
+		return customerName;
 	}
 	public void setCustomerName(String customerName) {
-		CustomerName = customerName;
+		this.customerName = customerName;
 	}
 	
 	
@@ -128,7 +124,7 @@ public class Customer {
 	
 	@Override
 	public String toString() {
-		return "Customer [CustomerName=" + CustomerName + ", email=" + email + ", phone=" + phone + ", address="
+		return "Customer [CustomerName=" + customerName + ", email=" + email + ", phone=" + phone + ", address="
 				+ address + ", dateOfBirth=" + dateOfBirth + ", age=" + age + ", password=" + password + ", idProof="
 				+ idProof + ", preferredLoginId=" + preferredLoginId + ", customerId=" + customerId + "]";
 	}
