@@ -10,3 +10,9 @@
 
 ## Presentation Video link: 
 - https://drive.google.com/file/d/1fu1wxl13NOe8HffmFK2gVxPEqixErMgv/view?usp=share_link
+
+### Customer Use Case
+- As customer, I should be able to register myself in system.
+- As customer, I should be able to view my details.
+- As customer, I should be able to update my details.
+- As customer, I should be able to view my last 3 months orders and cancellations.
