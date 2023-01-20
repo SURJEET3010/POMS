@@ -1,0 +1,849 @@
+2023-01-19 01:03:31 INFO  MenuDrivenApplication:214 - Checking credentials...
+2023-01-19 01:03:31 INFO  MenuDrivenApplication:228 - Welcome, iahfkha!
+2023-01-19 01:03:31 INFO  MenuDrivenApplication:260 - Operations to perform
+2023-01-19 01:03:31 INFO  MenuDrivenApplication:261 - 1.Update
+2023-01-19 01:03:31 INFO  MenuDrivenApplication:262 - 2.View Order History
+2023-01-19 01:03:31 INFO  MenuDrivenApplication:263 - 3.Exit
+2023-01-19 01:04:23 INFO  MenuDrivenApplication:267 - Enter the Customer Id: 
+2023-01-19 01:04:28 INFO  MenuDrivenApplication:177 - Pizza
+2023-01-19 01:04:28 INFO  MenuDrivenApplication:177 - Hotdog
+2023-01-19 01:04:28 INFO  MenuDrivenApplication:177 - Coffee
+2023-01-19 01:13:25 INFO  MenuDrivenApplication:49 - PLEASE ENTER FOLLOWING DETAILS
+2023-01-19 01:35:38 INFO  MenuDrivenApplication:49 - PLEASE ENTER FOLLOWING DETAILS
+2023-01-19 01:36:52 INFO  MenuDrivenApplication:214 - Checking credentials...
+2023-01-19 01:36:52 INFO  MenuDrivenApplication:228 - Welcome, iahfkha!
+2023-01-19 01:36:52 INFO  MenuDrivenApplication:260 - Operations to perform
+2023-01-19 01:36:52 INFO  MenuDrivenApplication:261 - 1.Update
+2023-01-19 01:36:52 INFO  MenuDrivenApplication:262 - 2.View Order History
+2023-01-19 01:36:52 INFO  MenuDrivenApplication:263 - 3.Exit
+2023-01-19 01:37:15 INFO  MenuDrivenApplication:267 - Enter the Customer Id: 
+2023-01-19 01:39:05 INFO  MenuDrivenApplication:272 - Service not available !
+2023-01-19 01:39:05 INFO  MenuDrivenApplication:317 - Press 1: Update Name
+2023-01-19 01:39:05 INFO  MenuDrivenApplication:318 - Press 2: Update Email
+2023-01-19 01:39:05 INFO  MenuDrivenApplication:319 - Press 3: Update Contact
+2023-01-19 01:39:05 INFO  MenuDrivenApplication:320 - Press 4: Update Address
+2023-01-19 01:39:05 INFO  MenuDrivenApplication:321 - Press 5: Update Date of Birth
+2023-01-19 01:39:05 INFO  MenuDrivenApplication:322 - Press 7 to exit
+2023-01-19 01:39:12 INFO  MenuDrivenApplication:297 - Enter new customer_name
+2023-01-19 01:59:40 INFO  MenuDrivenApplication:214 - Checking credentials...
+2023-01-19 01:59:40 INFO  MenuDrivenApplication:231 - Invalid username or password.
+2023-01-19 02:01:12 INFO  MenuDrivenApplication:214 - Checking credentials...
+2023-01-19 02:01:13 INFO  MenuDrivenApplication:228 - Welcome, kumar!
+2023-01-19 02:01:13 INFO  MenuDrivenApplication:260 - Operations to perform
+2023-01-19 02:01:13 INFO  MenuDrivenApplication:261 - 1.Update
+2023-01-19 02:01:13 INFO  MenuDrivenApplication:262 - 2.View Order History
+2023-01-19 02:01:13 INFO  MenuDrivenApplication:263 - 3.Exit
+2023-01-19 02:01:18 INFO  MenuDrivenApplication:267 - Enter the Customer Id: 
+2023-01-19 02:01:23 INFO  MenuDrivenApplication:272 - Service not available !
+2023-01-19 02:01:23 INFO  MenuDrivenApplication:317 - Press 1: Update Name
+2023-01-19 02:01:23 INFO  MenuDrivenApplication:318 - Press 2: Update Email
+2023-01-19 02:01:23 INFO  MenuDrivenApplication:319 - Press 3: Update Contact
+2023-01-19 02:01:23 INFO  MenuDrivenApplication:320 - Press 4: Update Address
+2023-01-19 02:01:23 INFO  MenuDrivenApplication:321 - Press 5: Update Date of Birth
+2023-01-19 02:01:23 INFO  MenuDrivenApplication:322 - Press 7 to exit
+2023-01-19 02:01:27 INFO  MenuDrivenApplication:297 - Enter new customer_name
+2023-01-19 02:04:51 INFO  MenuDrivenApplication:214 - Checking credentials...
+2023-01-19 02:04:51 INFO  MenuDrivenApplication:228 - Welcome, kumar!
+2023-01-19 02:04:51 INFO  MenuDrivenApplication:260 - Operations to perform
+2023-01-19 02:04:51 INFO  MenuDrivenApplication:261 - 1.Update
+2023-01-19 02:04:51 INFO  MenuDrivenApplication:262 - 2.View Order History
+2023-01-19 02:04:51 INFO  MenuDrivenApplication:263 - 3.Exit
+2023-01-19 02:04:54 INFO  MenuDrivenApplication:267 - Enter the Customer Id: 
+2023-01-19 02:04:58 INFO  MenuDrivenApplication:272 - Service not available !
+2023-01-19 02:04:58 INFO  MenuDrivenApplication:317 - Press 1: Update Name
+2023-01-19 02:04:58 INFO  MenuDrivenApplication:318 - Press 2: Update Email
+2023-01-19 02:04:58 INFO  MenuDrivenApplication:319 - Press 3: Update Contact
+2023-01-19 02:04:58 INFO  MenuDrivenApplication:320 - Press 4: Update Address
+2023-01-19 02:04:58 INFO  MenuDrivenApplication:321 - Press 5: Update Date of Birth
+2023-01-19 02:04:58 INFO  MenuDrivenApplication:322 - Press 7 to exit
+2023-01-19 02:05:05 INFO  MenuDrivenApplication:297 - Enter new customer_name
+2023-01-19 02:09:32 INFO  MenuDrivenApplication:214 - Checking credentials...
+2023-01-19 02:09:33 INFO  MenuDrivenApplication:228 - Welcome, Surjeet!
+2023-01-19 02:09:33 INFO  MenuDrivenApplication:260 - Operations to perform
+2023-01-19 02:09:33 INFO  MenuDrivenApplication:261 - 1.Update
+2023-01-19 02:09:33 INFO  MenuDrivenApplication:262 - 2.View Order History
+2023-01-19 02:09:33 INFO  MenuDrivenApplication:263 - 3.Exit
+2023-01-19 02:09:48 INFO  MenuDrivenApplication:267 - Enter the Customer Id: 
+2023-01-19 02:09:49 INFO  MenuDrivenApplication:272 - Service not available !
+2023-01-19 02:09:49 INFO  MenuDrivenApplication:317 - Press 1: Update Name
+2023-01-19 02:09:49 INFO  MenuDrivenApplication:318 - Press 2: Update Email
+2023-01-19 02:09:49 INFO  MenuDrivenApplication:319 - Press 3: Update Contact
+2023-01-19 02:09:49 INFO  MenuDrivenApplication:320 - Press 4: Update Address
+2023-01-19 02:09:49 INFO  MenuDrivenApplication:321 - Press 5: Update Date of Birth
+2023-01-19 02:09:49 INFO  MenuDrivenApplication:322 - Press 7 to exit
+2023-01-19 02:09:54 INFO  MenuDrivenApplication:297 - Enter new customer_name
+2023-01-19 02:12:10 INFO  MenuDrivenApplication:214 - Checking credentials...
+2023-01-19 02:12:10 INFO  MenuDrivenApplication:228 - Welcome, Surjeet!
+2023-01-19 02:12:10 INFO  MenuDrivenApplication:260 - Operations to perform
+2023-01-19 02:12:10 INFO  MenuDrivenApplication:261 - 1.Update
+2023-01-19 02:12:10 INFO  MenuDrivenApplication:262 - 2.View Order History
+2023-01-19 02:12:10 INFO  MenuDrivenApplication:263 - 3.Exit
+2023-01-19 02:12:12 INFO  MenuDrivenApplication:267 - Enter the Customer Id: 
+2023-01-19 02:12:14 INFO  MenuDrivenApplication:272 - Service not available !
+2023-01-19 02:12:14 INFO  MenuDrivenApplication:317 - Press 1: Update Name
+2023-01-19 02:12:14 INFO  MenuDrivenApplication:318 - Press 2: Update Email
+2023-01-19 02:12:14 INFO  MenuDrivenApplication:319 - Press 3: Update Contact
+2023-01-19 02:12:14 INFO  MenuDrivenApplication:320 - Press 4: Update Address
+2023-01-19 02:12:14 INFO  MenuDrivenApplication:321 - Press 5: Update Date of Birth
+2023-01-19 02:12:14 INFO  MenuDrivenApplication:322 - Press 7 to exit
+2023-01-19 02:12:16 INFO  MenuDrivenApplication:348 - Wrong option selected
+2023-01-19 02:12:16 INFO  MenuDrivenApplication:317 - Press 1: Update Name
+2023-01-19 02:12:16 INFO  MenuDrivenApplication:318 - Press 2: Update Email
+2023-01-19 02:12:16 INFO  MenuDrivenApplication:319 - Press 3: Update Contact
+2023-01-19 02:12:16 INFO  MenuDrivenApplication:320 - Press 4: Update Address
+2023-01-19 02:12:16 INFO  MenuDrivenApplication:321 - Press 5: Update Date of Birth
+2023-01-19 02:12:16 INFO  MenuDrivenApplication:322 - Press 7 to exit
+2023-01-19 02:12:23 INFO  MenuDrivenApplication:297 - Enter new customer_name
+2023-01-19 02:28:55 INFO  MenuDrivenApplication:214 - Checking credentials...
+2023-01-19 02:28:55 INFO  MenuDrivenApplication:229 - Welcome, Surjeet!
+2023-01-19 02:28:55 INFO  MenuDrivenApplication:261 - Operations to perform
+2023-01-19 02:28:55 INFO  MenuDrivenApplication:262 - 1.Update
+2023-01-19 02:28:55 INFO  MenuDrivenApplication:263 - 2.View Order History
+2023-01-19 02:28:55 INFO  MenuDrivenApplication:264 - 3.Exit
+2023-01-19 02:29:03 INFO  MenuDrivenApplication:268 - Enter the Customer Id: 
+2023-01-19 02:29:07 INFO  MenuDrivenApplication:273 - Service not available !
+2023-01-19 02:29:07 INFO  MenuDrivenApplication:319 - Press 1: Update Name
+2023-01-19 02:29:07 INFO  MenuDrivenApplication:320 - Press 2: Update Email
+2023-01-19 02:29:07 INFO  MenuDrivenApplication:321 - Press 3: Update Contact
+2023-01-19 02:29:07 INFO  MenuDrivenApplication:322 - Press 4: Update Address
+2023-01-19 02:29:07 INFO  MenuDrivenApplication:323 - Press 5: Update Date of Birth
+2023-01-19 02:29:07 INFO  MenuDrivenApplication:324 - Press 7 to exit
+2023-01-19 02:29:13 INFO  MenuDrivenApplication:298 - Enter new customer_name
+2023-01-19 02:37:50 INFO  MenuDrivenApplication:214 - Checking credentials...
+2023-01-19 02:37:50 INFO  MenuDrivenApplication:229 - Welcome, Surjeet!
+2023-01-19 02:37:50 INFO  MenuDrivenApplication:261 - Operations to perform
+2023-01-19 02:37:50 INFO  MenuDrivenApplication:262 - 1.Update
+2023-01-19 02:37:50 INFO  MenuDrivenApplication:263 - 2.View Order History
+2023-01-19 02:37:50 INFO  MenuDrivenApplication:264 - 3.Exit
+2023-01-19 02:37:57 INFO  MenuDrivenApplication:268 - Enter the Customer Id: 
+2023-01-19 02:38:04 INFO  MenuDrivenApplication:273 - Service not available !
+2023-01-19 02:38:04 INFO  MenuDrivenApplication:321 - Press 1: Update Name
+2023-01-19 02:38:04 INFO  MenuDrivenApplication:322 - Press 2: Update Email
+2023-01-19 02:38:04 INFO  MenuDrivenApplication:323 - Press 3: Update Contact
+2023-01-19 02:38:04 INFO  MenuDrivenApplication:324 - Press 4: Update Address
+2023-01-19 02:38:04 INFO  MenuDrivenApplication:325 - Press 5: Update Date of Birth
+2023-01-19 02:38:04 INFO  MenuDrivenApplication:326 - Press 7 to exit
+2023-01-19 02:38:07 INFO  MenuDrivenApplication:298 - Enter new customer_name
+2023-01-19 02:38:13 INFO  MenuDrivenApplication:306 - customer_name updated successfully
+2023-01-19 02:38:13 INFO  MenuDrivenApplication:307 - Press 1 to go back
+2023-01-19 02:46:31 INFO  MenuDrivenApplication:214 - Checking credentials...
+2023-01-19 02:46:32 INFO  MenuDrivenApplication:229 - Welcome, Surjeet!
+2023-01-19 02:46:32 INFO  MenuDrivenApplication:261 - Operations to perform
+2023-01-19 02:46:32 INFO  MenuDrivenApplication:262 - 1.Update
+2023-01-19 02:46:32 INFO  MenuDrivenApplication:263 - 2.View Order History
+2023-01-19 02:46:32 INFO  MenuDrivenApplication:264 - 3.Exit
+2023-01-19 02:46:34 INFO  MenuDrivenApplication:268 - Enter the Customer Id: 
+2023-01-19 02:46:35 INFO  MenuDrivenApplication:273 - Service not available !
+2023-01-19 02:46:35 INFO  MenuDrivenApplication:325 - Press 1: Update Name
+2023-01-19 02:46:35 INFO  MenuDrivenApplication:326 - Press 2: Update Email
+2023-01-19 02:46:35 INFO  MenuDrivenApplication:327 - Press 3: Update Contact
+2023-01-19 02:46:35 INFO  MenuDrivenApplication:328 - Press 4: Update Address
+2023-01-19 02:46:35 INFO  MenuDrivenApplication:329 - Press 5: Update Date of Birth
+2023-01-19 02:46:35 INFO  MenuDrivenApplication:330 - Press 7 to exit
+2023-01-19 02:46:39 INFO  MenuDrivenApplication:298 - Enter new customer_name
+2023-01-19 02:47:46 INFO  MenuDrivenApplication:214 - Checking credentials...
+2023-01-19 02:47:46 INFO  MenuDrivenApplication:229 - Welcome, Surjeet!
+2023-01-19 02:47:46 INFO  MenuDrivenApplication:261 - Operations to perform
+2023-01-19 02:47:46 INFO  MenuDrivenApplication:262 - 1.Update
+2023-01-19 02:47:46 INFO  MenuDrivenApplication:263 - 2.View Order History
+2023-01-19 02:47:46 INFO  MenuDrivenApplication:264 - 3.Exit
+2023-01-19 02:47:48 INFO  MenuDrivenApplication:268 - Enter the Customer Id: 
+2023-01-19 02:47:50 INFO  MenuDrivenApplication:273 - Service not available !
+2023-01-19 02:47:50 INFO  MenuDrivenApplication:325 - Press 1: Update Name
+2023-01-19 02:47:50 INFO  MenuDrivenApplication:326 - Press 2: Update Email
+2023-01-19 02:47:50 INFO  MenuDrivenApplication:327 - Press 3: Update Contact
+2023-01-19 02:47:50 INFO  MenuDrivenApplication:328 - Press 4: Update Address
+2023-01-19 02:47:50 INFO  MenuDrivenApplication:329 - Press 5: Update Date of Birth
+2023-01-19 02:47:50 INFO  MenuDrivenApplication:330 - Press 7 to exit
+2023-01-19 02:47:51 INFO  MenuDrivenApplication:298 - Enter new customer_name
+2023-01-19 02:52:37 INFO  MenuDrivenApplication:214 - Checking credentials...
+2023-01-19 02:52:38 INFO  MenuDrivenApplication:229 - Welcome, Surjeet!
+2023-01-19 02:52:38 INFO  MenuDrivenApplication:261 - Operations to perform
+2023-01-19 02:52:38 INFO  MenuDrivenApplication:262 - 1.Update
+2023-01-19 02:52:38 INFO  MenuDrivenApplication:263 - 2.View Order History
+2023-01-19 02:52:38 INFO  MenuDrivenApplication:264 - 3.Exit
+2023-01-19 02:52:45 INFO  MenuDrivenApplication:273 - Service not available !
+2023-01-19 02:52:45 INFO  MenuDrivenApplication:329 - Press 1: Update Name
+2023-01-19 02:52:45 INFO  MenuDrivenApplication:330 - Press 2: Update Email
+2023-01-19 02:52:45 INFO  MenuDrivenApplication:331 - Press 3: Update Contact
+2023-01-19 02:52:45 INFO  MenuDrivenApplication:332 - Press 4: Update Address
+2023-01-19 02:52:45 INFO  MenuDrivenApplication:333 - Press 5: Update Date of Birth
+2023-01-19 02:52:45 INFO  MenuDrivenApplication:334 - Press 7 to exit
+2023-01-19 02:52:49 INFO  MenuDrivenApplication:298 - Enter new customer_name
+2023-01-19 02:53:59 INFO  MenuDrivenApplication:214 - Checking credentials...
+2023-01-19 02:53:59 INFO  MenuDrivenApplication:229 - Welcome, Surjeet!
+2023-01-19 02:53:59 INFO  MenuDrivenApplication:261 - Operations to perform
+2023-01-19 02:53:59 INFO  MenuDrivenApplication:262 - 1.Update
+2023-01-19 02:53:59 INFO  MenuDrivenApplication:263 - 2.View Order History
+2023-01-19 02:53:59 INFO  MenuDrivenApplication:264 - 3.Exit
+2023-01-19 02:54:07 INFO  MenuDrivenApplication:273 - Service not available !
+2023-01-19 02:54:07 INFO  MenuDrivenApplication:326 - Press 1: Update Name
+2023-01-19 02:54:07 INFO  MenuDrivenApplication:327 - Press 2: Update Email
+2023-01-19 02:54:07 INFO  MenuDrivenApplication:328 - Press 3: Update Contact
+2023-01-19 02:54:07 INFO  MenuDrivenApplication:329 - Press 4: Update Address
+2023-01-19 02:54:07 INFO  MenuDrivenApplication:330 - Press 5: Update Date of Birth
+2023-01-19 02:54:07 INFO  MenuDrivenApplication:331 - Press 7 to exit
+2023-01-19 02:54:10 INFO  MenuDrivenApplication:298 - Enter new customer_name
+2023-01-19 02:56:54 INFO  MenuDrivenApplication:214 - Checking credentials...
+2023-01-19 02:56:54 INFO  MenuDrivenApplication:229 - Welcome, Surjeet!
+2023-01-19 02:56:54 INFO  MenuDrivenApplication:261 - Operations to perform
+2023-01-19 02:56:54 INFO  MenuDrivenApplication:262 - 1.Update
+2023-01-19 02:56:54 INFO  MenuDrivenApplication:263 - 2.View Order History
+2023-01-19 02:56:54 INFO  MenuDrivenApplication:264 - 3.Exit
+2023-01-19 02:56:57 INFO  MenuDrivenApplication:273 - Service not available !
+2023-01-19 02:56:57 INFO  MenuDrivenApplication:326 - Press 1: Update Name
+2023-01-19 02:56:57 INFO  MenuDrivenApplication:327 - Press 2: Update Email
+2023-01-19 02:56:57 INFO  MenuDrivenApplication:328 - Press 3: Update Contact
+2023-01-19 02:56:57 INFO  MenuDrivenApplication:329 - Press 4: Update Address
+2023-01-19 02:56:57 INFO  MenuDrivenApplication:330 - Press 5: Update Date of Birth
+2023-01-19 02:56:57 INFO  MenuDrivenApplication:331 - Press 7 to exit
+2023-01-19 02:56:59 INFO  MenuDrivenApplication:298 - Enter new customer_name
+2023-01-19 02:57:05 INFO  MenuDrivenApplication:311 - customer_name updated successfully
+2023-01-19 02:57:05 INFO  MenuDrivenApplication:312 - Press 1 to go back
+2023-01-19 02:57:13 INFO  MenuDrivenApplication:342 - Currently Not Available !
+2023-01-19 02:57:13 INFO  MenuDrivenApplication:298 - Enter new phone
+2023-01-19 03:05:46 INFO  MenuDrivenApplication:214 - Checking credentials...
+2023-01-19 03:05:46 INFO  MenuDrivenApplication:232 - Invalid username or password.
+2023-01-19 03:06:11 INFO  MenuDrivenApplication:214 - Checking credentials...
+2023-01-19 03:06:11 INFO  MenuDrivenApplication:232 - Invalid username or password.
+2023-01-19 03:06:29 INFO  MenuDrivenApplication:214 - Checking credentials...
+2023-01-19 03:06:29 INFO  MenuDrivenApplication:229 - Welcome, polo!
+2023-01-19 03:06:29 INFO  MenuDrivenApplication:261 - Operations to perform
+2023-01-19 03:06:29 INFO  MenuDrivenApplication:262 - 1.Update
+2023-01-19 03:06:29 INFO  MenuDrivenApplication:263 - 2.View Order History
+2023-01-19 03:06:29 INFO  MenuDrivenApplication:264 - 3.Exit
+2023-01-19 03:06:39 INFO  MenuDrivenApplication:285 - THANK YOU
+2023-01-19 03:08:24 INFO  MenuDrivenApplication:214 - Checking credentials...
+2023-01-19 03:08:24 INFO  MenuDrivenApplication:229 - Welcome, polo!
+2023-01-19 03:08:24 INFO  MenuDrivenApplication:261 - Operations to perform
+2023-01-19 03:08:24 INFO  MenuDrivenApplication:262 - 1.Update
+2023-01-19 03:08:24 INFO  MenuDrivenApplication:263 - 2.View Order History
+2023-01-19 03:08:24 INFO  MenuDrivenApplication:264 - 3.Exit
+2023-01-19 03:08:28 INFO  MenuDrivenApplication:285 - THANK YOU
+2023-01-19 03:11:28 INFO  MenuDrivenApplication:56 - Want to continue ? (y/n)
+2023-01-19 03:26:47 INFO  MenuDrivenApplication:50 - PLEASE ENTER FOLLOWING DETAILS
+2023-01-19 03:33:37 INFO  MenuDrivenApplication:50 - PLEASE ENTER FOLLOWING DETAILS
+2023-01-19 12:12:40 INFO  MenuDrivenApplication:82 - PLEASE ENTER FOLLOWING DETAILS
+2023-01-19 12:12:40 INFO  MenuDrivenApplication:84 - Enter the name of Customer:-
+2023-01-19 12:12:49 INFO  MenuDrivenApplication:94 - Enter the email of Customer:-
+2023-01-19 12:12:53 WARN  MenuDrivenApplication:100 - Invalid Email
+2023-01-19 12:12:53 INFO  MenuDrivenApplication:94 - Enter the email of Customer:-
+2023-01-19 12:13:02 INFO  MenuDrivenApplication:109 - Enter the contact no of Customer:-
+2023-01-19 12:13:11 WARN  MenuDrivenApplication:115 - Invalid Contact no. !
+2023-01-19 12:13:11 INFO  MenuDrivenApplication:109 - Enter the contact no of Customer:-
+2023-01-19 12:13:18 WARN  MenuDrivenApplication:115 - Invalid Contact no. !
+2023-01-19 12:13:18 INFO  MenuDrivenApplication:109 - Enter the contact no of Customer:-
+2023-01-19 12:13:25 WARN  MenuDrivenApplication:115 - Invalid Contact no. !
+2023-01-19 12:13:25 INFO  MenuDrivenApplication:109 - Enter the contact no of Customer:-
+2023-01-19 12:13:30 INFO  MenuDrivenApplication:119 - Enter the address of the Customer:-
+2023-01-19 12:13:46 INFO  MenuDrivenApplication:123 - Enter the date of birth of Customer:-
+2023-01-19 12:13:53 INFO  MenuDrivenApplication:129 - Enter the id proof (PAN/ Adhaar / Voter card) of Customer:-
+2023-01-19 12:14:07 INFO  MenuDrivenApplication:133 - Enter preferrd login id of Customer:-
+2023-01-19 12:14:10 INFO  MenuDrivenApplication:137 - Enter the password of Customer:-
+2023-01-19 12:14:13 INFO  MenuDrivenApplication:170 - Connecting to database...
+2023-01-19 12:14:13 INFO  MenuDrivenApplication:173 - Inserting customer data...
+2023-01-19 12:14:14 INFO  MenuDrivenApplication:188 - Customer data inserted successfully.
+2023-01-19 12:14:14 INFO  MenuDrivenApplication:189 - 0
+2023-01-19 12:14:14 INFO  MenuDrivenApplication:145 - 
+
+2023-01-19 12:14:14 INFO  MenuDrivenApplication:146 - 	******You have successfully registered******
+2023-01-19 12:14:14 INFO  MenuDrivenApplication:147 - To sign in press 1
+2023-01-19 12:14:14 INFO  MenuDrivenApplication:148 - Any other key to exit
+2023-01-19 16:33:35 INFO  MenuDrivenApplication:266 - Email: 
+2023-01-19 16:33:57 INFO  MenuDrivenApplication:268 - Password: 
+2023-01-19 16:34:06 INFO  MenuDrivenApplication:274 - Checking credentials...
+2023-01-19 16:34:09 INFO  MenuDrivenApplication:292 - Welcome, polo!
+2023-01-19 16:34:09 INFO  MenuDrivenApplication:323 - Operations to perform
+2023-01-19 16:34:09 INFO  MenuDrivenApplication:324 - 1.Update
+2023-01-19 16:34:09 INFO  MenuDrivenApplication:325 - 2.View Order History
+2023-01-19 16:34:09 INFO  MenuDrivenApplication:326 - 3.Exit
+2023-01-19 16:34:16 INFO  MenuDrivenApplication:384 - Press 1: Update Name
+2023-01-19 16:34:16 INFO  MenuDrivenApplication:385 - Press 2: Update Email
+2023-01-19 16:34:16 INFO  MenuDrivenApplication:386 - Press 3: Update Contact
+2023-01-19 16:34:16 INFO  MenuDrivenApplication:387 - Press 4: Update Address
+2023-01-19 16:34:16 INFO  MenuDrivenApplication:388 - Press 5: Update Date of Birth
+2023-01-19 16:34:16 INFO  MenuDrivenApplication:389 - Press 7 to exit
+2023-01-19 16:34:19 INFO  MenuDrivenApplication:360 - Enter new customer_name
+2023-01-19 16:34:25 INFO  MenuDrivenApplication:370 - customer_name updated successfully
+2023-01-19 16:34:25 INFO  MenuDrivenApplication:371 - Press 1 to go back
+2023-01-19 16:34:29 INFO  MenuDrivenApplication:384 - Press 1: Update Name
+2023-01-19 16:34:29 INFO  MenuDrivenApplication:385 - Press 2: Update Email
+2023-01-19 16:34:29 INFO  MenuDrivenApplication:386 - Press 3: Update Contact
+2023-01-19 16:34:29 INFO  MenuDrivenApplication:387 - Press 4: Update Address
+2023-01-19 16:34:29 INFO  MenuDrivenApplication:388 - Press 5: Update Date of Birth
+2023-01-19 16:34:29 INFO  MenuDrivenApplication:389 - Press 7 to exit
+2023-01-19 16:40:48 INFO  MenuDrivenApplication:266 - Email: 
+2023-01-19 16:40:57 INFO  MenuDrivenApplication:268 - Password: 
+2023-01-19 16:41:02 INFO  MenuDrivenApplication:274 - Checking credentials...
+2023-01-19 16:41:02 INFO  MenuDrivenApplication:290 - Welcome, Surjeet!
+2023-01-19 16:41:02 INFO  MenuDrivenApplication:321 - Operations to perform
+2023-01-19 16:41:02 INFO  MenuDrivenApplication:322 - 1.Update
+2023-01-19 16:41:02 INFO  MenuDrivenApplication:323 - 2.View Order History
+2023-01-19 16:41:02 INFO  MenuDrivenApplication:324 - 3.Exit
+2023-01-19 18:02:52 INFO  MenuDrivenApplication:258 - Email: 
+2023-01-19 18:03:03 INFO  MenuDrivenApplication:260 - Password: 
+2023-01-19 18:03:07 INFO  MenuDrivenApplication:266 - Checking credentials...
+2023-01-19 18:03:07 INFO  MenuDrivenApplication:282 - Welcome, Surjeet!
+2023-01-19 18:03:07 INFO  MenuDrivenApplication:313 - Operations to perform
+2023-01-19 18:03:07 INFO  MenuDrivenApplication:314 - 1.Update
+2023-01-19 18:03:07 INFO  MenuDrivenApplication:315 - 2.View Order History
+2023-01-19 18:03:07 INFO  MenuDrivenApplication:316 - 3.Exit
+2023-01-19 18:06:20 INFO  MenuDrivenApplication:258 - Email: 
+2023-01-19 18:06:28 INFO  MenuDrivenApplication:260 - Password: 
+2023-01-19 18:06:34 INFO  MenuDrivenApplication:266 - Checking credentials...
+2023-01-19 18:06:34 INFO  MenuDrivenApplication:282 - Welcome, Surjeet!
+2023-01-19 18:06:34 INFO  MenuDrivenApplication:313 - Operations to perform
+2023-01-19 18:06:34 INFO  MenuDrivenApplication:314 - 1.Update
+2023-01-19 18:06:34 INFO  MenuDrivenApplication:315 - 2.View Order History
+2023-01-19 18:06:34 INFO  MenuDrivenApplication:316 - 3.Exit
+2023-01-19 18:08:43 INFO  MenuDrivenApplication:258 - Email: 
+2023-01-19 18:08:51 INFO  MenuDrivenApplication:260 - Password: 
+2023-01-19 18:08:58 INFO  MenuDrivenApplication:266 - Checking credentials...
+2023-01-19 18:08:58 INFO  MenuDrivenApplication:282 - Welcome, Surjeet!
+2023-01-19 18:08:58 INFO  MenuDrivenApplication:313 - Operations to perform
+2023-01-19 18:08:58 INFO  MenuDrivenApplication:314 - 1.Update
+2023-01-19 18:08:58 INFO  MenuDrivenApplication:315 - 2.View Order History
+2023-01-19 18:08:58 INFO  MenuDrivenApplication:316 - 3.Exit
+2023-01-19 18:09:02 INFO  MenuDrivenApplication:137 - Pizza
+2023-01-19 18:09:02 INFO  MenuDrivenApplication:137 - Hotdog
+2023-01-19 18:09:02 INFO  MenuDrivenApplication:137 - Coffee
+2023-01-19 22:26:26 INFO  MenuDrivenApplication:179 - PLEASE ENTER FOLLOWING DETAILS
+2023-01-19 22:26:26 INFO  MenuDrivenApplication:181 - Enter the name of Customer:-
+2023-01-19 22:26:37 INFO  MenuDrivenApplication:191 - Enter the email of Customer:-
+2023-01-19 22:26:40 WARN  MenuDrivenApplication:197 - Invalid Email
+2023-01-19 22:26:40 INFO  MenuDrivenApplication:191 - Enter the email of Customer:-
+2023-01-19 22:26:55 INFO  MenuDrivenApplication:205 - Enter the contact no of Customer:-
+2023-01-19 22:27:20 INFO  MenuDrivenApplication:215 - Enter the address of the Customer:-
+2023-01-19 22:27:29 INFO  MenuDrivenApplication:223 - Enter the date of birth of Customer:-
+2023-01-19 22:27:38 WARN  MenuDrivenApplication:230 - Not Valid!
+2023-01-19 22:27:38 INFO  MenuDrivenApplication:223 - Enter the date of birth of Customer:-
+2023-01-19 22:27:54 INFO  MenuDrivenApplication:223 - Enter the date of birth of Customer:-
+2023-01-19 22:28:13 INFO  MenuDrivenApplication:223 - Enter the date of birth of Customer:-
+2023-01-19 22:28:40 INFO  MenuDrivenApplication:258 - Email: 
+2023-01-19 22:28:49 INFO  MenuDrivenApplication:260 - Password: 
+2023-01-19 22:28:54 INFO  MenuDrivenApplication:266 - Checking credentials...
+2023-01-19 22:28:55 INFO  MenuDrivenApplication:282 - Welcome, Surjeet!
+2023-01-19 22:28:55 INFO  MenuDrivenApplication:313 - Operations to perform
+2023-01-19 22:28:55 INFO  MenuDrivenApplication:314 - 1.Update
+2023-01-19 22:28:55 INFO  MenuDrivenApplication:315 - 2.View Order History
+2023-01-19 22:28:55 INFO  MenuDrivenApplication:316 - 3.Exit
+2023-01-19 22:29:00 INFO  MenuDrivenApplication:282 - Pizza
+2023-01-19 22:29:00 INFO  MenuDrivenApplication:282 - Hotdog
+2023-01-19 22:29:00 INFO  MenuDrivenApplication:282 - Coffee
+2023-01-19 22:29:04 INFO  MenuDrivenApplication:258 - Email: 
+2023-01-19 22:29:24 INFO  MenuDrivenApplication:260 - Password: 
+2023-01-19 22:29:30 INFO  MenuDrivenApplication:266 - Checking credentials...
+2023-01-19 22:29:30 INFO  MenuDrivenApplication:282 - Welcome, Surjeet!
+2023-01-19 22:29:30 INFO  MenuDrivenApplication:313 - Operations to perform
+2023-01-19 22:29:30 INFO  MenuDrivenApplication:314 - 1.Update
+2023-01-19 22:29:30 INFO  MenuDrivenApplication:315 - 2.View Order History
+2023-01-19 22:29:30 INFO  MenuDrivenApplication:316 - 3.Exit
+2023-01-19 22:29:35 INFO  MenuDrivenApplication:376 - Press 1: Update Name
+2023-01-19 22:29:35 INFO  MenuDrivenApplication:377 - Press 2: Update Email
+2023-01-19 22:29:35 INFO  MenuDrivenApplication:378 - Press 3: Update Contact
+2023-01-19 22:29:35 INFO  MenuDrivenApplication:379 - Press 4: Update Address
+2023-01-19 22:29:35 INFO  MenuDrivenApplication:380 - Press 5: Update Date of Birth
+2023-01-19 22:29:35 INFO  MenuDrivenApplication:381 - Press 7 to exit
+2023-01-19 22:29:38 INFO  MenuDrivenApplication:348 - Enter new customer_name
+2023-01-19 22:35:41 INFO  MenuDrivenApplication:179 - PLEASE ENTER FOLLOWING DETAILS
+2023-01-19 22:35:41 INFO  MenuDrivenApplication:181 - Enter the name of Customer:-
+2023-01-19 22:35:46 INFO  MenuDrivenApplication:191 - Enter the email of Customer:-
+2023-01-19 22:35:54 INFO  MenuDrivenApplication:205 - Enter the contact no of Customer:-
+2023-01-19 22:36:03 INFO  MenuDrivenApplication:215 - Enter the address of the Customer:-
+2023-01-19 22:36:08 INFO  MenuDrivenApplication:223 - Enter the date of birth of Customer:-
+2023-01-19 22:36:20 INFO  MenuDrivenApplication:223 - Enter the date of birth of Customer:-
+2023-01-19 22:43:07 WARN  MenuDrivenApplication:230 - Not Valid!
+2023-01-19 22:43:07 INFO  MenuDrivenApplication:223 - Enter the date of birth of Customer:-
+2023-01-19 22:43:19 INFO  MenuDrivenApplication:223 - Enter the date of birth of Customer:-
+2023-01-19 22:48:40 INFO  MenuDrivenApplication:179 - PLEASE ENTER FOLLOWING DETAILS
+2023-01-19 22:48:40 INFO  MenuDrivenApplication:181 - Enter the name of Customer:-
+2023-01-19 22:48:45 INFO  MenuDrivenApplication:191 - Enter the email of Customer:-
+2023-01-19 22:48:56 INFO  MenuDrivenApplication:205 - Enter the contact no of Customer:-
+2023-01-19 22:49:04 INFO  MenuDrivenApplication:215 - Enter the address of the Customer:-
+2023-01-19 22:49:12 INFO  MenuDrivenApplication:223 - Enter the date of birth of Customer:-
+2023-01-19 22:49:22 WARN  MenuDrivenApplication:231 - Not Valid!
+2023-01-19 22:49:22 INFO  MenuDrivenApplication:223 - Enter the date of birth of Customer:-
+2023-01-19 22:49:35 INFO  MenuDrivenApplication:223 - Enter the date of birth of Customer:-
+2023-01-19 22:52:13 INFO  MenuDrivenApplication:179 - PLEASE ENTER FOLLOWING DETAILS
+2023-01-19 22:52:13 INFO  MenuDrivenApplication:181 - Enter the name of Customer:-
+2023-01-19 22:52:15 INFO  MenuDrivenApplication:191 - Enter the email of Customer:-
+2023-01-19 22:52:20 INFO  MenuDrivenApplication:205 - Enter the contact no of Customer:-
+2023-01-19 22:52:41 INFO  MenuDrivenApplication:215 - Enter the address of the Customer:-
+2023-01-19 22:52:46 INFO  MenuDrivenApplication:223 - Enter the date of birth of Customer:-
+2023-01-19 22:52:53 INFO  MenuDrivenApplication:235 - Enter the id proof (PAN/ Adhaar / Voter card) of Customer:-
+2023-01-19 22:53:03 INFO  MenuDrivenApplication:239 - Enter preferrd login id of Customer:-
+2023-01-19 22:53:08 INFO  MenuDrivenApplication:243 - Enter the password of Customer:-
+2023-01-19 22:53:14 INFO  MenuDrivenApplication:184 - Connecting to database...
+2023-01-19 22:53:14 INFO  MenuDrivenApplication:187 - Inserting customer data...
+2023-01-19 22:53:15 INFO  MenuDrivenApplication:202 - Customer data inserted successfully.
+2023-01-19 22:53:15 INFO  MenuDrivenApplication:203 - 0
+2023-01-19 22:53:15 INFO  MenuDrivenApplication:251 - 
+
+2023-01-19 22:53:15 INFO  MenuDrivenApplication:252 - 	******You have successfully registered******
+2023-01-19 22:53:15 INFO  MenuDrivenApplication:253 - To sign in press 1
+2023-01-19 22:53:15 INFO  MenuDrivenApplication:254 - Any other key to exit
+2023-01-19 22:53:18 INFO  MenuDrivenApplication:258 - Email: 
+2023-01-19 22:53:27 INFO  MenuDrivenApplication:260 - Password: 
+2023-01-19 22:53:35 INFO  MenuDrivenApplication:266 - Checking credentials...
+2023-01-19 22:53:35 INFO  MenuDrivenApplication:282 - Welcome, Surjeet!
+2023-01-19 22:53:35 INFO  MenuDrivenApplication:313 - Operations to perform
+2023-01-19 22:53:35 INFO  MenuDrivenApplication:314 - 1.Update
+2023-01-19 22:53:35 INFO  MenuDrivenApplication:315 - 2.View Order History
+2023-01-19 22:53:35 INFO  MenuDrivenApplication:316 - 3.Exit
+2023-01-19 23:26:56 INFO  MenuDrivenApplication:258 - Email: 
+2023-01-19 23:27:06 INFO  MenuDrivenApplication:260 - Password: 
+2023-01-19 23:27:16 INFO  MenuDrivenApplication:266 - Checking credentials...
+2023-01-19 23:27:17 INFO  MenuDrivenApplication:282 - Welcome, Surjeet!
+2023-01-19 23:27:17 INFO  MenuDrivenApplication:313 - Operations to perform
+2023-01-19 23:27:17 INFO  MenuDrivenApplication:314 - 1.Update
+2023-01-19 23:27:17 INFO  MenuDrivenApplication:315 - 2.View Order History
+2023-01-19 23:27:17 INFO  MenuDrivenApplication:316 - 3.Exit
+2023-01-19 23:27:29 INFO  MenuDrivenApplication:376 - Press 1: Update Name
+2023-01-19 23:27:29 INFO  MenuDrivenApplication:377 - Press 2: Update Email
+2023-01-19 23:27:29 INFO  MenuDrivenApplication:378 - Press 3: Update Contact
+2023-01-19 23:27:29 INFO  MenuDrivenApplication:379 - Press 4: Update Address
+2023-01-19 23:27:29 INFO  MenuDrivenApplication:380 - Press 5: Update Date of Birth
+2023-01-19 23:27:29 INFO  MenuDrivenApplication:381 - Press 7 to exit
+2023-01-20 00:22:19 INFO  MenuDrivenApplication:78 - PLEASE ENTER FOLLOWING DETAILS
+2023-01-20 00:22:19 INFO  MenuDrivenApplication:80 - Enter the name of Customer:-
+2023-01-20 00:22:25 INFO  MenuDrivenApplication:90 - Enter the email of Customer:-
+2023-01-20 00:22:40 INFO  MenuDrivenApplication:104 - Enter the contact no of Customer:-
+2023-01-20 00:22:48 INFO  MenuDrivenApplication:114 - Enter the address of the Customer:-
+2023-01-20 00:22:54 INFO  MenuDrivenApplication:122 - Enter the date of birth of Customer:-
+2023-01-20 00:23:03 INFO  MenuDrivenApplication:134 - Enter the id proof (PAN/ Adhaar / Voter card) of Customer:-
+2023-01-20 00:23:20 INFO  MenuDrivenApplication:138 - Enter preferrd login id of Customer:-
+2023-01-20 00:23:27 INFO  MenuDrivenApplication:142 - Enter the password of Customer:-
+2023-01-20 00:23:32 INFO  MenuDrivenApplication:48 - Connecting to database...
+2023-01-20 00:23:32 INFO  MenuDrivenApplication:51 - Inserting customer data...
+2023-01-20 00:23:32 INFO  MenuDrivenApplication:66 - Customer data inserted successfully.
+2023-01-20 00:23:32 INFO  MenuDrivenApplication:67 - 0
+2023-01-20 00:23:32 INFO  MenuDrivenApplication:150 - 
+
+2023-01-20 00:23:32 INFO  MenuDrivenApplication:151 - 	******You have successfully registered******
+2023-01-20 00:23:32 INFO  MenuDrivenApplication:152 - To sign in press 1
+2023-01-20 00:23:32 INFO  MenuDrivenApplication:153 - Any other key to exit
+2023-01-20 00:23:43 INFO  MenuDrivenApplication:116 - Email: 
+2023-01-20 00:24:21 INFO  MenuDrivenApplication:118 - Password: 
+2023-01-20 00:24:45 INFO  MenuDrivenApplication:124 - Checking credentials...
+2023-01-20 00:24:45 INFO  MenuDrivenApplication:140 - Welcome, Surjeet!
+2023-01-20 00:24:45 INFO  MenuDrivenApplication:171 - Operations to perform
+2023-01-20 00:24:45 INFO  MenuDrivenApplication:172 - 1.Update
+2023-01-20 00:24:45 INFO  MenuDrivenApplication:173 - 2.View Order History
+2023-01-20 00:24:45 INFO  MenuDrivenApplication:174 - 3.Exit
+2023-01-20 00:24:51 INFO  MenuDrivenApplication:234 - Press 1: Update Name
+2023-01-20 00:24:51 INFO  MenuDrivenApplication:235 - Press 2: Update Email
+2023-01-20 00:24:51 INFO  MenuDrivenApplication:236 - Press 3: Update Contact
+2023-01-20 00:24:51 INFO  MenuDrivenApplication:237 - Press 4: Update Address
+2023-01-20 00:24:51 INFO  MenuDrivenApplication:238 - Press 5: Update Date of Birth
+2023-01-20 00:24:51 INFO  MenuDrivenApplication:239 - Press 7 to exit
+2023-01-20 00:24:59 INFO  MenuDrivenApplication:206 - Enter new email
+2023-01-20 00:27:07 INFO  MenuDrivenApplication:78 - PLEASE ENTER FOLLOWING DETAILS
+2023-01-20 00:27:07 INFO  MenuDrivenApplication:80 - Enter the name of Customer:-
+2023-01-20 00:27:12 INFO  MenuDrivenApplication:90 - Enter the email of Customer:-
+2023-01-20 00:27:21 INFO  MenuDrivenApplication:104 - Enter the contact no of Customer:-
+2023-01-20 00:27:36 INFO  MenuDrivenApplication:114 - Enter the address of the Customer:-
+2023-01-20 00:27:42 INFO  MenuDrivenApplication:122 - Enter the date of birth of Customer:-
+2023-01-20 00:27:49 INFO  MenuDrivenApplication:134 - Enter the id proof (PAN/ Adhaar / Voter card) of Customer:-
+2023-01-20 00:27:56 INFO  MenuDrivenApplication:138 - Enter preferrd login id of Customer:-
+2023-01-20 00:28:02 INFO  MenuDrivenApplication:142 - Enter the password of Customer:-
+2023-01-20 00:28:08 INFO  MenuDrivenApplication:48 - Connecting to database...
+2023-01-20 00:28:08 INFO  MenuDrivenApplication:51 - Inserting customer data...
+2023-01-20 00:28:09 INFO  MenuDrivenApplication:66 - Customer data inserted successfully.
+2023-01-20 00:28:09 INFO  MenuDrivenApplication:67 - 0
+2023-01-20 00:28:09 INFO  MenuDrivenApplication:150 - 
+
+2023-01-20 00:28:09 INFO  MenuDrivenApplication:151 - 	******You have successfully registered******
+2023-01-20 00:28:09 INFO  MenuDrivenApplication:152 - To sign in press 1
+2023-01-20 00:28:09 INFO  MenuDrivenApplication:153 - Any other key to exit
+2023-01-20 00:28:15 INFO  MenuDrivenApplication:116 - Email: 
+2023-01-20 00:28:34 INFO  MenuDrivenApplication:118 - Password: 
+2023-01-20 00:28:40 INFO  MenuDrivenApplication:124 - Checking credentials...
+2023-01-20 00:28:40 WARN  MenuDrivenApplication:143 - Invalid username or password.
+2023-01-20 00:28:49 INFO  MenuDrivenApplication:116 - Email: 
+2023-01-20 00:29:07 INFO  MenuDrivenApplication:118 - Password: 
+2023-01-20 00:29:11 INFO  MenuDrivenApplication:124 - Checking credentials...
+2023-01-20 00:29:11 INFO  MenuDrivenApplication:140 - Welcome, surjeet!
+2023-01-20 00:29:11 INFO  MenuDrivenApplication:171 - Operations to perform
+2023-01-20 00:29:11 INFO  MenuDrivenApplication:172 - 1.Update
+2023-01-20 00:29:11 INFO  MenuDrivenApplication:173 - 2.View Order History
+2023-01-20 00:29:11 INFO  MenuDrivenApplication:174 - 3.Exit
+2023-01-20 00:35:29 INFO  MenuDrivenApplication:116 - Email: 
+2023-01-20 01:19:11 INFO  MenuDrivenApplication:78 - PLEASE ENTER FOLLOWING DETAILS
+2023-01-20 01:19:11 INFO  MenuDrivenApplication:80 - Enter the name of Customer:-
+2023-01-20 01:19:32 INFO  MenuDrivenApplication:90 - Enter the email of Customer:-
+2023-01-20 01:19:45 INFO  MenuDrivenApplication:104 - Enter the contact no of Customer:-
+2023-01-20 01:19:56 INFO  MenuDrivenApplication:114 - Enter the address of the Customer:-
+2023-01-20 01:20:06 INFO  MenuDrivenApplication:122 - Enter the date of birth of Customer:-
+2023-01-20 01:20:17 INFO  MenuDrivenApplication:134 - Enter the id proof (PAN/ Adhaar / Voter card) of Customer:-
+2023-01-20 01:20:23 INFO  MenuDrivenApplication:138 - Enter preferrd login id of Customer:-
+2023-01-20 01:20:28 INFO  MenuDrivenApplication:142 - Enter the password of Customer:-
+2023-01-20 01:20:36 INFO  MenuDrivenApplication:48 - Connecting to database...
+2023-01-20 01:20:36 INFO  MenuDrivenApplication:51 - Inserting customer data...
+2023-01-20 01:20:36 INFO  MenuDrivenApplication:66 - Customer data inserted successfully.
+2023-01-20 01:20:36 INFO  MenuDrivenApplication:67 - 0
+2023-01-20 01:20:36 INFO  MenuDrivenApplication:150 - 
+
+2023-01-20 01:20:36 INFO  MenuDrivenApplication:151 - 	******You have successfully registered******
+2023-01-20 01:20:36 INFO  MenuDrivenApplication:152 - To sign in press 1
+2023-01-20 01:20:36 INFO  MenuDrivenApplication:153 - Any other key to exit
+2023-01-20 09:00:37 INFO  MenuDrivenApplication:116 - Email: 
+2023-01-20 09:01:05 INFO  MenuDrivenApplication:78 - PLEASE ENTER FOLLOWING DETAILS
+2023-01-20 09:01:05 INFO  MenuDrivenApplication:80 - Enter the name of Customer:-
+2023-01-20 09:01:15 INFO  MenuDrivenApplication:90 - Enter the email of Customer:-
+2023-01-20 09:01:25 INFO  MenuDrivenApplication:104 - Enter the contact no of Customer:-
+2023-01-20 09:01:38 WARN  MenuDrivenApplication:110 - Invalid Contact no. !
+2023-01-20 09:01:38 INFO  MenuDrivenApplication:104 - Enter the contact no of Customer:-
+2023-01-20 09:01:47 INFO  MenuDrivenApplication:114 - Enter the address of the Customer:-
+2023-01-20 09:01:56 INFO  MenuDrivenApplication:122 - Enter the date of birth of Customer:-
+2023-01-20 09:02:21 INFO  MenuDrivenApplication:134 - Enter the id proof (PAN/ Adhaar / Voter card) of Customer:-
+2023-01-20 09:02:27 INFO  MenuDrivenApplication:138 - Enter preferrd login id of Customer:-
+2023-01-20 09:02:40 INFO  MenuDrivenApplication:142 - Enter the password of Customer:-
+2023-01-20 09:02:44 INFO  MenuDrivenApplication:48 - Connecting to database...
+2023-01-20 09:02:44 INFO  MenuDrivenApplication:51 - Inserting customer data...
+2023-01-20 09:02:45 INFO  MenuDrivenApplication:66 - Customer data inserted successfully.
+2023-01-20 09:02:45 INFO  MenuDrivenApplication:67 - 0
+2023-01-20 09:02:45 INFO  MenuDrivenApplication:150 - 
+
+2023-01-20 09:02:45 INFO  MenuDrivenApplication:151 - 	******You have successfully registered******
+2023-01-20 09:02:45 INFO  MenuDrivenApplication:152 - To sign in press 1
+2023-01-20 09:02:45 INFO  MenuDrivenApplication:153 - Any other key to exit
+2023-01-20 09:03:09 INFO  MenuDrivenApplication:116 - Email: 
+2023-01-20 09:03:37 INFO  MenuDrivenApplication:118 - Password: 
+2023-01-20 09:03:46 INFO  MenuDrivenApplication:124 - Checking credentials...
+2023-01-20 09:03:47 INFO  MenuDrivenApplication:140 - Welcome, Zakir!
+2023-01-20 09:03:47 INFO  MenuDrivenApplication:171 - Operations to perform
+2023-01-20 09:03:47 INFO  MenuDrivenApplication:172 - 1.Update
+2023-01-20 09:03:47 INFO  MenuDrivenApplication:173 - 2.View Order History
+2023-01-20 09:03:47 INFO  MenuDrivenApplication:174 - 3.Exit
+2023-01-20 09:04:01 INFO  MenuDrivenApplication:182 - Pizza
+2023-01-20 09:04:01 INFO  MenuDrivenApplication:182 - Hotdog
+2023-01-20 09:04:01 INFO  MenuDrivenApplication:182 - Coffee
+2023-01-20 09:04:23 INFO  MenuDrivenApplication:116 - Email: 
+2023-01-20 09:04:30 INFO  MenuDrivenApplication:118 - Password: 
+2023-01-20 09:04:42 INFO  MenuDrivenApplication:124 - Checking credentials...
+2023-01-20 09:04:42 WARN  MenuDrivenApplication:143 - Invalid username or password.
+2023-01-20 09:05:03 INFO  MenuDrivenApplication:64 - Want to continue ? (y/n)
+2023-01-20 09:05:26 INFO  MenuDrivenApplication:116 - Email: 
+2023-01-20 09:05:37 INFO  MenuDrivenApplication:118 - Password: 
+2023-01-20 09:05:46 INFO  MenuDrivenApplication:124 - Checking credentials...
+2023-01-20 09:05:46 WARN  MenuDrivenApplication:143 - Invalid username or password.
+2023-01-20 09:05:54 INFO  MenuDrivenApplication:116 - Email: 
+2023-01-20 09:06:04 INFO  MenuDrivenApplication:118 - Password: 
+2023-01-20 09:06:11 INFO  MenuDrivenApplication:124 - Checking credentials...
+2023-01-20 09:06:11 INFO  MenuDrivenApplication:140 - Welcome, Zakir!
+2023-01-20 09:06:11 INFO  MenuDrivenApplication:171 - Operations to perform
+2023-01-20 09:06:11 INFO  MenuDrivenApplication:172 - 1.Update
+2023-01-20 09:06:11 INFO  MenuDrivenApplication:173 - 2.View Order History
+2023-01-20 09:06:11 INFO  MenuDrivenApplication:174 - 3.Exit
+2023-01-20 09:06:15 INFO  MenuDrivenApplication:231 - Press 1: Update Name
+2023-01-20 09:06:15 INFO  MenuDrivenApplication:232 - Press 2: Update Email
+2023-01-20 09:06:15 INFO  MenuDrivenApplication:233 - Press 3: Update Contact
+2023-01-20 09:06:15 INFO  MenuDrivenApplication:234 - Press 4: Update Address
+2023-01-20 09:06:15 INFO  MenuDrivenApplication:235 - Press 5: Update Date of Birth
+2023-01-20 09:06:15 INFO  MenuDrivenApplication:236 - Press 7 to exit
+2023-01-20 09:06:27 INFO  MenuDrivenApplication:206 - Enter new date_of_birth
+2023-01-20 09:08:20 INFO  MenuDrivenApplication:116 - Email: 
+2023-01-20 09:08:27 INFO  MenuDrivenApplication:118 - Password: 
+2023-01-20 09:08:36 INFO  MenuDrivenApplication:124 - Checking credentials...
+2023-01-20 09:08:36 INFO  MenuDrivenApplication:140 - Welcome, Zakir!
+2023-01-20 09:08:36 INFO  MenuDrivenApplication:171 - Operations to perform
+2023-01-20 09:08:36 INFO  MenuDrivenApplication:172 - 1.Update
+2023-01-20 09:08:36 INFO  MenuDrivenApplication:173 - 2.View Order History
+2023-01-20 09:08:36 INFO  MenuDrivenApplication:174 - 3.Exit
+2023-01-20 09:08:40 INFO  MenuDrivenApplication:231 - Press 1: Update Name
+2023-01-20 09:08:40 INFO  MenuDrivenApplication:232 - Press 2: Update Email
+2023-01-20 09:08:40 INFO  MenuDrivenApplication:233 - Press 3: Update Contact
+2023-01-20 09:08:40 INFO  MenuDrivenApplication:234 - Press 4: Update Address
+2023-01-20 09:08:40 INFO  MenuDrivenApplication:235 - Press 5: Update Date of Birth
+2023-01-20 09:08:40 INFO  MenuDrivenApplication:236 - Press 7 to exit
+2023-01-20 09:08:55 INFO  MenuDrivenApplication:206 - Enter new phone
+2023-01-20 09:13:25 INFO  MenuDrivenApplication:116 - Email: 
+2023-01-20 09:13:32 INFO  MenuDrivenApplication:118 - Password: 
+2023-01-20 09:13:36 INFO  MenuDrivenApplication:124 - Checking credentials...
+2023-01-20 09:13:36 WARN  MenuDrivenApplication:143 - Invalid username or password.
+2023-01-20 09:13:41 INFO  MenuDrivenApplication:116 - Email: 
+2023-01-20 09:13:54 INFO  MenuDrivenApplication:118 - Password: 
+2023-01-20 09:14:02 INFO  MenuDrivenApplication:124 - Checking credentials...
+2023-01-20 09:14:02 INFO  MenuDrivenApplication:140 - Welcome, Zakir!
+2023-01-20 09:14:02 INFO  MenuDrivenApplication:171 - Operations to perform
+2023-01-20 09:14:02 INFO  MenuDrivenApplication:172 - 1.Update
+2023-01-20 09:14:02 INFO  MenuDrivenApplication:173 - 2.View Order History
+2023-01-20 09:14:02 INFO  MenuDrivenApplication:174 - 3.Exit
+2023-01-20 09:14:04 INFO  MenuDrivenApplication:231 - Press 1: Update Name
+2023-01-20 09:14:04 INFO  MenuDrivenApplication:232 - Press 2: Update Email
+2023-01-20 09:14:04 INFO  MenuDrivenApplication:233 - Press 3: Update Contact
+2023-01-20 09:14:04 INFO  MenuDrivenApplication:234 - Press 4: Update Address
+2023-01-20 09:14:04 INFO  MenuDrivenApplication:235 - Press 5: Update Date of Birth
+2023-01-20 09:14:04 INFO  MenuDrivenApplication:236 - Press 7 to exit
+2023-01-20 09:14:17 INFO  MenuDrivenApplication:206 - Enter new customer_name
+2023-01-20 10:23:18 INFO  MenuDrivenApplication:116 - Email: 
+2023-01-20 10:23:30 INFO  MenuDrivenApplication:118 - Password: 
+2023-01-20 10:23:50 INFO  MenuDrivenApplication:124 - Checking credentials...
+2023-01-20 10:23:58 INFO  MenuDrivenApplication:140 - Welcome, Zakir!
+2023-01-20 10:23:58 INFO  MenuDrivenApplication:171 - Operations to perform
+2023-01-20 10:23:58 INFO  MenuDrivenApplication:172 - 1.Update
+2023-01-20 10:23:58 INFO  MenuDrivenApplication:173 - 2.View Order History
+2023-01-20 10:23:58 INFO  MenuDrivenApplication:174 - 3.Exit
+2023-01-20 10:24:10 INFO  MenuDrivenApplication:231 - Press 1: Update Name
+2023-01-20 10:24:10 INFO  MenuDrivenApplication:232 - Press 2: Update Email
+2023-01-20 10:24:10 INFO  MenuDrivenApplication:233 - Press 3: Update Contact
+2023-01-20 10:24:10 INFO  MenuDrivenApplication:234 - Press 4: Update Address
+2023-01-20 10:24:10 INFO  MenuDrivenApplication:235 - Press 5: Update Date of Birth
+2023-01-20 10:24:10 INFO  MenuDrivenApplication:236 - Press 7 to exit
+2023-01-20 10:24:17 INFO  MenuDrivenApplication:206 - Enter new customer_name
+2023-01-20 10:27:07 INFO  MenuDrivenApplication:116 - Email: 
+2023-01-20 10:27:18 INFO  MenuDrivenApplication:118 - Password: 
+2023-01-20 10:27:27 INFO  MenuDrivenApplication:124 - Checking credentials...
+2023-01-20 10:27:27 WARN  MenuDrivenApplication:143 - Invalid username or password.
+2023-01-20 10:27:32 INFO  MenuDrivenApplication:116 - Email: 
+2023-01-20 10:27:44 INFO  MenuDrivenApplication:118 - Password: 
+2023-01-20 10:27:52 INFO  MenuDrivenApplication:124 - Checking credentials...
+2023-01-20 10:27:52 INFO  MenuDrivenApplication:140 - Welcome, Zakir!
+2023-01-20 10:27:52 INFO  MenuDrivenApplication:171 - Operations to perform
+2023-01-20 10:27:52 INFO  MenuDrivenApplication:172 - 1.Update
+2023-01-20 10:27:52 INFO  MenuDrivenApplication:173 - 2.View Order History
+2023-01-20 10:27:52 INFO  MenuDrivenApplication:174 - 3.Exit
+2023-01-20 10:28:00 INFO  MenuDrivenApplication:231 - Press 1: Update Name
+2023-01-20 10:28:00 INFO  MenuDrivenApplication:232 - Press 2: Update Email
+2023-01-20 10:28:00 INFO  MenuDrivenApplication:233 - Press 3: Update Contact
+2023-01-20 10:28:00 INFO  MenuDrivenApplication:234 - Press 4: Update Address
+2023-01-20 10:28:00 INFO  MenuDrivenApplication:235 - Press 5: Update Date of Birth
+2023-01-20 10:28:00 INFO  MenuDrivenApplication:236 - Press 7 to exit
+2023-01-20 10:28:04 INFO  MenuDrivenApplication:206 - Enter new customer_name
+2023-01-20 10:40:32 INFO  MenuDrivenApplication:116 - Email: 
+2023-01-20 10:40:45 INFO  MenuDrivenApplication:118 - Password: 
+2023-01-20 10:40:51 INFO  MenuDrivenApplication:124 - Checking credentials...
+2023-01-20 10:40:51 INFO  MenuDrivenApplication:140 - Welcome, Zakir!
+2023-01-20 10:40:51 INFO  MenuDrivenApplication:171 - Operations to perform
+2023-01-20 10:40:51 INFO  MenuDrivenApplication:172 - 1.Update
+2023-01-20 10:40:51 INFO  MenuDrivenApplication:173 - 2.View Order History
+2023-01-20 10:40:51 INFO  MenuDrivenApplication:174 - 3.Exit
+2023-01-20 10:40:54 INFO  MenuDrivenApplication:237 - Press 1: Update Name
+2023-01-20 10:40:54 INFO  MenuDrivenApplication:238 - Press 2: Update Email
+2023-01-20 10:40:54 INFO  MenuDrivenApplication:239 - Press 3: Update Contact
+2023-01-20 10:40:54 INFO  MenuDrivenApplication:240 - Press 4: Update Address
+2023-01-20 10:40:54 INFO  MenuDrivenApplication:241 - Press 5: Update Date of Birth
+2023-01-20 10:40:54 INFO  MenuDrivenApplication:242 - Press 7 to exit
+2023-01-20 10:41:07 INFO  MenuDrivenApplication:207 - Enter new address
+2023-01-20 10:41:53 INFO  MenuDrivenApplication:116 - Email: 
+2023-01-20 10:42:08 INFO  MenuDrivenApplication:118 - Password: 
+2023-01-20 10:42:14 INFO  MenuDrivenApplication:124 - Checking credentials...
+2023-01-20 10:42:14 WARN  MenuDrivenApplication:143 - Invalid username or password.
+2023-01-20 10:42:31 INFO  MenuDrivenApplication:116 - Email: 
+2023-01-20 10:42:39 INFO  MenuDrivenApplication:118 - Password: 
+2023-01-20 10:42:58 INFO  MenuDrivenApplication:124 - Checking credentials...
+2023-01-20 10:42:58 INFO  MenuDrivenApplication:140 - Welcome, Zakir!
+2023-01-20 10:42:58 INFO  MenuDrivenApplication:171 - Operations to perform
+2023-01-20 10:42:58 INFO  MenuDrivenApplication:172 - 1.Update
+2023-01-20 10:42:58 INFO  MenuDrivenApplication:173 - 2.View Order History
+2023-01-20 10:42:58 INFO  MenuDrivenApplication:174 - 3.Exit
+2023-01-20 10:43:45 INFO  MenuDrivenApplication:237 - Press 1: Update Name
+2023-01-20 10:43:45 INFO  MenuDrivenApplication:238 - Press 2: Update Email
+2023-01-20 10:43:45 INFO  MenuDrivenApplication:239 - Press 3: Update Contact
+2023-01-20 10:43:45 INFO  MenuDrivenApplication:240 - Press 4: Update Address
+2023-01-20 10:43:45 INFO  MenuDrivenApplication:241 - Press 5: Update Date of Birth
+2023-01-20 10:43:45 INFO  MenuDrivenApplication:242 - Press 7 to exit
+2023-01-20 10:43:58 INFO  MenuDrivenApplication:207 - Enter new address
+2023-01-20 10:44:50 INFO  MenuDrivenApplication:116 - Email: 
+2023-01-20 10:45:00 INFO  MenuDrivenApplication:118 - Password: 
+2023-01-20 10:45:08 INFO  MenuDrivenApplication:124 - Checking credentials...
+2023-01-20 10:45:08 INFO  MenuDrivenApplication:140 - Welcome, Zakir!
+2023-01-20 10:45:08 INFO  MenuDrivenApplication:171 - Operations to perform
+2023-01-20 10:45:08 INFO  MenuDrivenApplication:172 - 1.Update
+2023-01-20 10:45:08 INFO  MenuDrivenApplication:173 - 2.View Order History
+2023-01-20 10:45:08 INFO  MenuDrivenApplication:174 - 3.Exit
+2023-01-20 10:45:10 INFO  MenuDrivenApplication:237 - Press 1: Update Name
+2023-01-20 10:45:10 INFO  MenuDrivenApplication:238 - Press 2: Update Email
+2023-01-20 10:45:10 INFO  MenuDrivenApplication:239 - Press 3: Update Contact
+2023-01-20 10:45:10 INFO  MenuDrivenApplication:240 - Press 4: Update Address
+2023-01-20 10:45:10 INFO  MenuDrivenApplication:241 - Press 5: Update Date of Birth
+2023-01-20 10:45:10 INFO  MenuDrivenApplication:242 - Press 7 to exit
+2023-01-20 10:45:13 INFO  MenuDrivenApplication:207 - Enter new address
+2023-01-20 10:46:54 INFO  MenuDrivenApplication:78 - PLEASE ENTER FOLLOWING DETAILS
+2023-01-20 10:46:54 INFO  MenuDrivenApplication:80 - Enter the name of Customer:-
+2023-01-20 10:47:03 INFO  MenuDrivenApplication:90 - Enter the email of Customer:-
+2023-01-20 10:47:27 INFO  MenuDrivenApplication:116 - Email: 
+2023-01-20 10:47:41 INFO  MenuDrivenApplication:118 - Password: 
+2023-01-20 10:47:48 INFO  MenuDrivenApplication:124 - Checking credentials...
+2023-01-20 10:47:49 INFO  MenuDrivenApplication:140 - Welcome, Zakir!
+2023-01-20 10:47:49 INFO  MenuDrivenApplication:171 - Operations to perform
+2023-01-20 10:47:49 INFO  MenuDrivenApplication:172 - 1.Update
+2023-01-20 10:47:49 INFO  MenuDrivenApplication:173 - 2.View Order History
+2023-01-20 10:47:49 INFO  MenuDrivenApplication:174 - 3.Exit
+2023-01-20 10:47:51 INFO  MenuDrivenApplication:237 - Press 1: Update Name
+2023-01-20 10:47:51 INFO  MenuDrivenApplication:238 - Press 2: Update Email
+2023-01-20 10:47:51 INFO  MenuDrivenApplication:239 - Press 3: Update Contact
+2023-01-20 10:47:51 INFO  MenuDrivenApplication:240 - Press 4: Update Address
+2023-01-20 10:47:51 INFO  MenuDrivenApplication:241 - Press 5: Update Date of Birth
+2023-01-20 10:47:51 INFO  MenuDrivenApplication:242 - Press 7 to exit
+2023-01-20 10:47:54 INFO  MenuDrivenApplication:207 - Enter new address
+2023-01-20 10:52:34 INFO  MenuDrivenApplication:116 - Email: 
+2023-01-20 10:52:48 INFO  MenuDrivenApplication:118 - Password: 
+2023-01-20 10:52:54 INFO  MenuDrivenApplication:124 - Checking credentials...
+2023-01-20 10:52:54 INFO  MenuDrivenApplication:140 - Welcome, Zakir!
+2023-01-20 10:52:54 INFO  MenuDrivenApplication:171 - Operations to perform
+2023-01-20 10:52:54 INFO  MenuDrivenApplication:172 - 1.Update
+2023-01-20 10:52:54 INFO  MenuDrivenApplication:173 - 2.View Order History
+2023-01-20 10:52:54 INFO  MenuDrivenApplication:174 - 3.Exit
+2023-01-20 10:53:39 INFO  MenuDrivenApplication:237 - Press 1: Update Name
+2023-01-20 10:53:39 INFO  MenuDrivenApplication:238 - Press 2: Update Email
+2023-01-20 10:53:39 INFO  MenuDrivenApplication:239 - Press 3: Update Contact
+2023-01-20 10:53:39 INFO  MenuDrivenApplication:240 - Press 4: Update Address
+2023-01-20 10:53:39 INFO  MenuDrivenApplication:241 - Press 5: Update Date of Birth
+2023-01-20 10:53:39 INFO  MenuDrivenApplication:242 - Press 7 to exit
+2023-01-20 10:53:46 INFO  MenuDrivenApplication:207 - Enter new address
+2023-01-20 10:53:54 INFO  MenuDrivenApplication:220 - address updated successfully
+2023-01-20 10:53:54 INFO  MenuDrivenApplication:221 - Press 1 to go back
+2023-01-20 10:53:57 INFO  MenuDrivenApplication:237 - Press 1: Update Name
+2023-01-20 10:53:57 INFO  MenuDrivenApplication:238 - Press 2: Update Email
+2023-01-20 10:53:57 INFO  MenuDrivenApplication:239 - Press 3: Update Contact
+2023-01-20 10:53:57 INFO  MenuDrivenApplication:240 - Press 4: Update Address
+2023-01-20 10:53:57 INFO  MenuDrivenApplication:241 - Press 5: Update Date of Birth
+2023-01-20 10:53:57 INFO  MenuDrivenApplication:242 - Press 7 to exit
+2023-01-20 11:27:32 INFO  MenuDrivenApplication:56 - Email: 
+2023-01-20 11:27:42 INFO  MenuDrivenApplication:58 - Password: 
+2023-01-20 11:27:48 INFO  MenuDrivenApplication:124 - Checking credentials...
+2023-01-20 11:27:48 INFO  MenuDrivenApplication:140 - Welcome, Zakir!
+2023-01-20 11:27:48 INFO  MenuDrivenApplication:171 - Operations to perform
+2023-01-20 11:27:48 INFO  MenuDrivenApplication:172 - 1.Update
+2023-01-20 11:27:48 INFO  MenuDrivenApplication:173 - 2.View Order History
+2023-01-20 11:27:48 INFO  MenuDrivenApplication:174 - 3.Exit
+2023-01-20 11:27:58 INFO  MenuDrivenApplication:193 - THANK YOU
+2023-01-20 11:29:04 INFO  MenuDrivenApplication:56 - Email: 
+2023-01-20 11:29:14 INFO  MenuDrivenApplication:58 - Password: 
+2023-01-20 11:29:21 INFO  MenuDrivenApplication:124 - Checking credentials...
+2023-01-20 11:29:21 INFO  MenuDrivenApplication:140 - Welcome, Zakir!
+2023-01-20 11:29:21 INFO  MenuDrivenApplication:171 - Operations to perform
+2023-01-20 11:29:21 INFO  MenuDrivenApplication:172 - 1.Update
+2023-01-20 11:29:21 INFO  MenuDrivenApplication:173 - 2.View Order History
+2023-01-20 11:29:21 INFO  MenuDrivenApplication:174 - 3.Exit
+2023-01-20 11:29:36 INFO  MenuDrivenApplication:193 - THANK YOU
+2023-01-20 11:30:14 INFO  MenuDrivenApplication:71 - Want to continue ? (y/n)
+2023-01-20 11:42:57 INFO  MenuDrivenApplication:71 - Want to continue ? (y/n)
+2023-01-20 11:49:23 INFO  MenuDrivenApplication:54 - Email: 
+2023-01-20 11:49:30 INFO  MenuDrivenApplication:56 - Password: 
+2023-01-20 11:49:38 INFO  MenuDrivenApplication:124 - Checking credentials...
+2023-01-20 11:49:39 INFO  MenuDrivenApplication:140 - Welcome, Zakir!
+2023-01-20 11:49:39 INFO  MenuDrivenApplication:171 - Operations to perform
+2023-01-20 11:49:39 INFO  MenuDrivenApplication:172 - 1.Update
+2023-01-20 11:49:39 INFO  MenuDrivenApplication:173 - 2.View Order History
+2023-01-20 11:49:39 INFO  MenuDrivenApplication:174 - 3.Exit
+2023-01-20 11:49:45 INFO  MenuDrivenApplication:239 - Press 1: Update Name
+2023-01-20 11:49:45 INFO  MenuDrivenApplication:240 - Press 2: Update Email
+2023-01-20 11:49:45 INFO  MenuDrivenApplication:241 - Press 3: Update Contact
+2023-01-20 11:49:45 INFO  MenuDrivenApplication:242 - Press 4: Update Address
+2023-01-20 11:49:45 INFO  MenuDrivenApplication:243 - Press 5: Update Date of Birth
+2023-01-20 11:49:45 INFO  MenuDrivenApplication:244 - Press 7 to exit
+2023-01-20 11:49:55 INFO  MenuDrivenApplication:207 - Enter new phone
+2023-01-20 11:50:15 INFO  MenuDrivenApplication:222 - phone updated successfully
+2023-01-20 11:50:15 INFO  MenuDrivenApplication:223 - Press 1 to go back
+2023-01-20 11:50:37 INFO  MenuDrivenApplication:239 - Press 1: Update Name
+2023-01-20 11:50:37 INFO  MenuDrivenApplication:240 - Press 2: Update Email
+2023-01-20 11:50:37 INFO  MenuDrivenApplication:241 - Press 3: Update Contact
+2023-01-20 11:50:37 INFO  MenuDrivenApplication:242 - Press 4: Update Address
+2023-01-20 11:50:37 INFO  MenuDrivenApplication:243 - Press 5: Update Date of Birth
+2023-01-20 11:50:37 INFO  MenuDrivenApplication:244 - Press 7 to exit
+2023-01-20 11:51:12 INFO  MenuDrivenApplication:68 - Want to continue ? (y/n)
+2023-01-20 11:59:26 INFO  MenuDrivenApplication:54 - Email: 
+2023-01-20 11:59:36 INFO  MenuDrivenApplication:56 - Password: 
+2023-01-20 11:59:51 INFO  MenuDrivenApplication:124 - Checking credentials...
+2023-01-20 11:59:51 INFO  MenuDrivenApplication:140 - Welcome, Zakir!
+2023-01-20 11:59:51 INFO  MenuDrivenApplication:171 - Operations to perform
+2023-01-20 11:59:51 INFO  MenuDrivenApplication:172 - 1.Update
+2023-01-20 11:59:51 INFO  MenuDrivenApplication:173 - 2.View Order History
+2023-01-20 11:59:51 INFO  MenuDrivenApplication:174 - 3.Exit
+2023-01-20 12:00:07 INFO  MenuDrivenApplication:239 - Press 1: Update Name
+2023-01-20 12:00:07 INFO  MenuDrivenApplication:240 - Press 2: Update Email
+2023-01-20 12:00:07 INFO  MenuDrivenApplication:241 - Press 3: Update Contact
+2023-01-20 12:00:07 INFO  MenuDrivenApplication:242 - Press 4: Update Address
+2023-01-20 12:00:07 INFO  MenuDrivenApplication:243 - Press 5: Update Date of Birth
+2023-01-20 12:00:07 INFO  MenuDrivenApplication:244 - Press 7: Logout
+2023-01-20 12:00:11 INFO  MenuDrivenApplication:207 - Enter new address
+2023-01-20 12:00:18 INFO  MenuDrivenApplication:222 - address updated successfully
+2023-01-20 12:00:18 INFO  MenuDrivenApplication:223 - Press 1 to go back
+2023-01-20 12:00:24 INFO  MenuDrivenApplication:239 - Press 1: Update Name
+2023-01-20 12:00:24 INFO  MenuDrivenApplication:240 - Press 2: Update Email
+2023-01-20 12:00:24 INFO  MenuDrivenApplication:241 - Press 3: Update Contact
+2023-01-20 12:00:24 INFO  MenuDrivenApplication:242 - Press 4: Update Address
+2023-01-20 12:00:24 INFO  MenuDrivenApplication:243 - Press 5: Update Date of Birth
+2023-01-20 12:00:24 INFO  MenuDrivenApplication:244 - Press 7: Logout
+2023-01-20 12:00:27 INFO  MenuDrivenApplication:272 - Logged Out !
+2023-01-20 12:00:27 INFO  MenuDrivenApplication:68 - Want to continue ? (y/n)
+2023-01-20 12:01:48 INFO  MenuDrivenApplication:68 - Want to continue ? (y/n)
+2023-01-20 12:05:55 INFO  MenuDrivenApplication:68 - Want to continue ? (y/n)
+2023-01-20 12:06:27 INFO  MenuDrivenApplication:68 - Want to continue ? (y/n)
+2023-01-20 12:07:30 INFO  MenuDrivenApplication:68 - Want to continue ? (y/n)
+2023-01-20 12:07:51 INFO  MenuDrivenApplication:68 - Want to continue ? (y/n)
+2023-01-20 12:08:38 INFO  MenuDrivenApplication:68 - Want to continue ? (y/n)
+2023-01-20 12:08:44 INFO  MenuDrivenApplication:68 - Want to continue ? (y/n)
+2023-01-20 12:10:51 INFO  MenuDrivenApplication:78 - PLEASE ENTER FOLLOWING DETAILS
+2023-01-20 12:10:51 INFO  MenuDrivenApplication:80 - Enter the name of Customer:-
+2023-01-20 12:11:04 INFO  MenuDrivenApplication:90 - Enter the email of Customer:-
+2023-01-20 12:11:19 INFO  MenuDrivenApplication:104 - Enter the contact no of Customer:-
+2023-01-20 12:11:27 INFO  MenuDrivenApplication:114 - Enter the address of the Customer:-
+2023-01-20 12:11:33 INFO  MenuDrivenApplication:122 - Enter the date of birth of Customer:-
+2023-01-20 12:11:41 INFO  MenuDrivenApplication:134 - Enter the id proof (PAN/ Adhaar / Voter card) of Customer:-
+2023-01-20 12:11:46 INFO  MenuDrivenApplication:138 - Enter preferrd login id of Customer:-
+2023-01-20 12:11:51 INFO  MenuDrivenApplication:142 - Enter the password of Customer:-
+2023-01-20 12:11:59 INFO  MenuDrivenApplication:48 - Connecting to database...
+2023-01-20 12:11:59 INFO  MenuDrivenApplication:51 - Inserting customer data...
+2023-01-20 12:11:59 INFO  MenuDrivenApplication:66 - Customer data inserted successfully.
+2023-01-20 12:11:59 INFO  MenuDrivenApplication:67 - 0
+2023-01-20 12:11:59 INFO  MenuDrivenApplication:150 - 
+
+2023-01-20 12:11:59 INFO  MenuDrivenApplication:151 - 	******You have successfully registered******
+2023-01-20 12:11:59 INFO  MenuDrivenApplication:152 - To sign in press 1
+2023-01-20 12:11:59 INFO  MenuDrivenApplication:153 - Any other key to exit
+2023-01-20 12:12:55 INFO  MenuDrivenApplication:68 - Want to continue ? (y/n)
+2023-01-20 12:39:22 INFO  MenuDrivenApplication:124 - Checking credentials...
+2023-01-20 12:39:22 INFO  MenuDrivenApplication:140 - Welcome, Zakir!
+2023-01-20 12:39:22 INFO  MenuDrivenApplication:171 - Operations to perform
+2023-01-20 12:39:22 INFO  MenuDrivenApplication:172 - 1.Update
+2023-01-20 12:39:22 INFO  MenuDrivenApplication:173 - 2.View Order History
+2023-01-20 12:39:22 INFO  MenuDrivenApplication:174 - 3.Exit
+2023-01-20 19:02:07 INFO  MenuDrivenApplication:68 - Want to continue ? (y/n)
+2023-01-20 19:02:29 INFO  MenuDrivenApplication:78 - PLEASE ENTER FOLLOWING DETAILS
+2023-01-20 19:02:29 INFO  MenuDrivenApplication:80 - Enter the name of Customer:-
+2023-01-20 19:02:37 INFO  MenuDrivenApplication:90 - Enter the email of Customer:-
+2023-01-20 19:02:42 WARN  MenuDrivenApplication:96 - Invalid Email
+2023-01-20 19:02:42 INFO  MenuDrivenApplication:90 - Enter the email of Customer:-
+2023-01-20 19:02:59 INFO  MenuDrivenApplication:104 - Enter the contact no of Customer:-
+2023-01-20 19:03:09 INFO  MenuDrivenApplication:114 - Enter the address of the Customer:-
+2023-01-20 19:03:18 INFO  MenuDrivenApplication:122 - Enter the date of birth of Customer:-
+2023-01-20 19:03:24 WARN  MenuDrivenApplication:130 - Not Valid!
+2023-01-20 19:03:24 INFO  MenuDrivenApplication:122 - Enter the date of birth of Customer:-
+2023-01-20 19:03:32 INFO  MenuDrivenApplication:134 - Enter the id proof (PAN/ Adhaar / Voter card) of Customer:-
+2023-01-20 19:03:42 INFO  MenuDrivenApplication:138 - Enter preferrd login id of Customer:-
+2023-01-20 19:03:50 INFO  MenuDrivenApplication:142 - Enter the password of Customer:-
+2023-01-20 19:03:55 INFO  MenuDrivenApplication:48 - Connecting to database...
+2023-01-20 19:03:55 INFO  MenuDrivenApplication:51 - Inserting customer data...
+2023-01-20 19:03:59 INFO  MenuDrivenApplication:66 - Customer data inserted successfully.
+2023-01-20 19:03:59 INFO  MenuDrivenApplication:67 - 0
+2023-01-20 19:03:59 INFO  MenuDrivenApplication:150 - 
+
+2023-01-20 19:03:59 INFO  MenuDrivenApplication:151 - 	******You have successfully registered******
+2023-01-20 19:03:59 INFO  MenuDrivenApplication:152 - To sign in press 1
+2023-01-20 19:03:59 INFO  MenuDrivenApplication:153 - Any other key to exit
+2023-01-20 19:05:22 INFO  MenuDrivenApplication:124 - Checking credentials...
+2023-01-20 19:05:23 INFO  MenuDrivenApplication:140 - Welcome, Surjett!
+2023-01-20 19:05:23 INFO  MenuDrivenApplication:171 - Operations to perform
+2023-01-20 19:05:23 INFO  MenuDrivenApplication:172 - 1.Update
+2023-01-20 19:05:23 INFO  MenuDrivenApplication:173 - 2.View Order History
+2023-01-20 19:05:23 INFO  MenuDrivenApplication:174 - 3.Exit
+2023-01-20 19:05:29 INFO  MenuDrivenApplication:239 - Press 1: Update Name
+2023-01-20 19:05:29 INFO  MenuDrivenApplication:240 - Press 2: Update Email
+2023-01-20 19:05:29 INFO  MenuDrivenApplication:241 - Press 3: Update Contact
+2023-01-20 19:05:29 INFO  MenuDrivenApplication:242 - Press 4: Update Address
+2023-01-20 19:05:29 INFO  MenuDrivenApplication:243 - Press 5: Update Date of Birth
+2023-01-20 19:05:29 INFO  MenuDrivenApplication:244 - Press 7: Logout
+2023-01-20 19:05:41 INFO  MenuDrivenApplication:207 - Enter new phone
+2023-01-20 19:05:49 INFO  MenuDrivenApplication:222 - phone updated successfully
+2023-01-20 19:05:49 INFO  MenuDrivenApplication:223 - Press 1 to go back
+2023-01-20 19:06:21 INFO  MenuDrivenApplication:239 - Press 1: Update Name
+2023-01-20 19:06:21 INFO  MenuDrivenApplication:240 - Press 2: Update Email
+2023-01-20 19:06:21 INFO  MenuDrivenApplication:241 - Press 3: Update Contact
+2023-01-20 19:06:21 INFO  MenuDrivenApplication:242 - Press 4: Update Address
+2023-01-20 19:06:21 INFO  MenuDrivenApplication:243 - Press 5: Update Date of Birth
+2023-01-20 19:06:21 INFO  MenuDrivenApplication:244 - Press 7: Logout
+2023-01-20 19:06:28 INFO  MenuDrivenApplication:272 - Logged Out !
+2023-01-20 19:06:28 INFO  MenuDrivenApplication:68 - Want to continue ? (y/n)
