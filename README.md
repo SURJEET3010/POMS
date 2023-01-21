@@ -16,3 +16,12 @@
 - As customer, I should be able to view my details.
 - As customer, I should be able to update my details.
 - As customer, I should be able to view my last 3 months orders and cancellations.
+
+### Technology used
+
+- Java programming language
+- MySQL
+- JDBC
+- Maven
+- Logger
+- JUnit
