@@ -18,4 +18,15 @@ preferred_login_id varchar(50),
 constraint primary key (customer_id)
 );
 
+Drop table orders;
 
+CREATE TABLE  orders(
+	Order_id int primary key,
+    description text,
+    order_date date,
+    amount int,
+    payment_mode varchar(50),
+    card_no varchar(30),
+    Address text,
+    customer_id int references customer(customer_id)
+);

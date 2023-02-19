@@ -37,6 +37,20 @@ VALUES
     "1993-12-12", 29, "xxxxxxx", "visa card", "sonail_675");
 
 
+INSERT INTO `poms`.`Customer`
+(
+`Customer_name`, 
+`email` , 
+`phone` ,
+`address` , 
+`date_of_birth`, 
+`age` ,
+`password`,
+`identity_proof`,
+`preferred_login_id`)
+VALUES
+("Sohan","sohan22@hmail.com", 909090990, "chennai", 
+    "12/12/1991", 32, "email", "123456789", "adhar");
 
 
-
+update customer set customer_name ="Surjeet Kumar" where email = "surjeet67@gmail.com";

@@ -34,7 +34,7 @@ import java.time.format.DateTimeFormatter;
  *
  */
 public class CustomerDaoImpl implements CustomerDao {
-
+	
 	private static final Logger logger = Logger.getLogger(MenuDrivenApplication.class);
 	static Connection con = DatabaseConnection.getConnection();
 

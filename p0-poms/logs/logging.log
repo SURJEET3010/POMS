@@ -847,3 +847,22 @@
 2023-01-20 19:06:21 INFO  MenuDrivenApplication:244 - Press 7: Logout
 2023-01-20 19:06:28 INFO  MenuDrivenApplication:272 - Logged Out !
 2023-01-20 19:06:28 INFO  MenuDrivenApplication:68 - Want to continue ? (y/n)
+2023-01-24 14:46:17 INFO  MenuDrivenApplication:78 - PLEASE ENTER FOLLOWING DETAILS
+2023-01-24 14:46:17 INFO  MenuDrivenApplication:80 - Enter the name of Customer:-
+2023-01-24 14:46:35 INFO  MenuDrivenApplication:90 - Enter the email of Customer:-
+2023-01-24 14:46:35 WARN  MenuDrivenApplication:96 - Invalid Email
+2023-01-24 14:46:35 INFO  MenuDrivenApplication:90 - Enter the email of Customer:-
+2023-01-24 14:46:55 INFO  MenuDrivenApplication:104 - Enter the contact no of Customer:-
+2023-01-24 14:46:59 WARN  MenuDrivenApplication:110 - Invalid Contact no. !
+2023-01-24 14:46:59 INFO  MenuDrivenApplication:104 - Enter the contact no of Customer:-
+2023-01-24 14:47:43 INFO  MenuDrivenApplication:78 - PLEASE ENTER FOLLOWING DETAILS
+2023-01-24 14:47:43 INFO  MenuDrivenApplication:80 - Enter the name of Customer:-
+2023-01-24 14:47:47 INFO  MenuDrivenApplication:90 - Enter the email of Customer:-
+2023-01-24 14:48:00 WARN  MenuDrivenApplication:96 - Invalid Email
+2023-01-24 14:48:00 INFO  MenuDrivenApplication:90 - Enter the email of Customer:-
+2023-01-24 14:48:15 INFO  MenuDrivenApplication:104 - Enter the contact no of Customer:-
+2023-01-24 14:48:19 WARN  MenuDrivenApplication:110 - Invalid Contact no. !
+2023-01-24 14:48:19 INFO  MenuDrivenApplication:104 - Enter the contact no of Customer:-
+2023-01-24 14:48:22 WARN  MenuDrivenApplication:110 - Invalid Contact no. !
+2023-01-24 14:48:22 INFO  MenuDrivenApplication:104 - Enter the contact no of Customer:-
+2023-01-24 14:48:29 INFO  MenuDrivenApplication:114 - Enter the address of the Customer:-
